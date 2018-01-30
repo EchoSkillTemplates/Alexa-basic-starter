@@ -15,9 +15,7 @@
             "keyword3"
           ],
           "name": "Hello World Template",
-          "description": "Sample Full Description",
-          //"smallIconUri": "https:// url to small .png file goes here",
-          //"largeIconUri": "https:// url to large .png file goes here"
+          "description": "Sample Full Description"
         }
       },
       "isAvailableWorldwide": true,
